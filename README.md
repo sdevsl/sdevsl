@@ -31,14 +31,9 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1466168449255346331">
-    <img
-      src="https://cdn.simpleicons.org/discord/5865F2"
-      width="20"
-      alt="Discord"
-      valign="middle"
-    />
-    <strong> Contact me on Discord</strong>
+  <a href="https://discord.com/users/1466168449255346331" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/discord/7289DA" width="16" valign="middle" alt="Discord"/>
+    <span style="color:#8b949e; font-size:13px;"> &nbsp;find me on discord</span>
   </a>
 </p>
 
