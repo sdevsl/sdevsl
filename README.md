@@ -1,6 +1,6 @@
 # Hi, I'm Saharsh 👋
 
-I'm a student, developer, and STEM enthusiast interested in pretty much anything that involves figuring out how things work.
+I'm a student, developer, and STEM enthusiast interested in literally much anything that has to do with technology! I love conceptual engineering as a whole and I also enjoy the field of *biotech*.
 
 I enjoy programming, robotics, mathematics, and creative design. I like experimenting with ideas, building projects, and learning something new along the way.
 
