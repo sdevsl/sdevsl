@@ -30,4 +30,10 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=sdevsl&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <a href="discord://-/users/1466168449255346331">
+    <img src="https://img.shields.io/badge/Contact%20me%20on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact me on Discord" />
+  </a>
+</p>
+
 *Always learning, always building.*
