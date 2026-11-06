@@ -30,10 +30,7 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=sdevsl&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-                                      
-                         
-</p>
+---
 
 <p align="center">
   <a href="https://discord.com/users/1466168449255346331">
