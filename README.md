@@ -47,6 +47,6 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
 ---
 
 <p align="center">
-  <img src="quote.svg" alt="If you want to shine like a sun, first burn like a sun" width="600" />
+  $$\color{#FFD700} \textit{"If you want to shine like a sun, first burn like a sun"}$$
 </p>
 
