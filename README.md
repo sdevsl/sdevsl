@@ -32,8 +32,14 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
 
 <p align="center">
   <a href="https://discord.com/users/1466168449255346331">
-    <img src="https://img.shields.io/badge/find%20me%20on-discord-2b2d31?style=flat-square&logo=discord&logoColor=7289DA" alt="Find me on Discord"/>
+    <img
+      src="https://cdn.simpleicons.org/discord/7289DA"
+      width="32"
+      alt="Discord"
+    />
   </a>
+  <br/>
+  <sub><sup>find me on discord</sup></sub>
 </p>
 
 *Always learning, always building.*
