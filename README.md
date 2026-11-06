@@ -47,5 +47,5 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
 ---
 
 <p align="center">
-*“If you want to shine like a sun, first burn like a sun”*
+<em>“If you want to shine like a sun, first burn like a sun”</em>
 </p>
