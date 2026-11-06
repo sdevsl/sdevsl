@@ -44,4 +44,4 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
   <sub><sup>find me on discord</sup></sub>
 </p>
 
-*Always learning, always building.*
+*:sunrise_over_mountains:“If you want to shine like a sun, first burn like a sun”*
