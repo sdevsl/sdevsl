@@ -47,5 +47,7 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
 ---
 
 <p align="center">
-  $${{\color{#FFD700} \text{\emph{If you want to shine like a sun, first burn like a sun}}}}$$
+  <em>
+    $${{\color{#FFD700} \text{\emph{"If you want to shine like a sun, first burn like a sun"}}}}$$
+  </em>
 </p>
