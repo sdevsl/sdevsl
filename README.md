@@ -47,5 +47,18 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
 ---
 
 <p align="center">
-<em>“If you want to shine like a sun, first burn like a sun”</em>
+  <svg height="50" width="600">
+    <style>
+      .glow-text {
+        font-family: serif;
+        font-style: italic;
+        font-size: 18px;
+        fill: #ffe600;
+        text-shadow: 0 0 8px rgba(255, 230, 0, 0.7), 0 0 16px rgba(255, 215, 0, 0.4);
+      }
+    </style>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="glow-text">
+      If you want to shine like a sun, first burn like a sun
+    </text>
+  </svg>
 </p>
