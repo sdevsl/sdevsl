@@ -10,38 +10,36 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
 - 🧮 Mathematics & problem-solving
 - 🎨 Graphic design & digital media
 
-<div align="center">
-  <h2>My Tech Stack & Tools</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-  <h4>Langs</h4>
-  <p>
-    <img src="https://shields.io" alt="Java" />
-    <img src="https://shields.io" alt="Python" />
-    <img src="https://shields.io" alt="C++" />
-    <img src="https://shields.io" alt="JavaScript" />
-    <img src="https://shields.io" alt="HTML5" />
-    <img src="https://shields.io" alt="CSS3" />
-  </p>
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</p>
 
-  <h4>Web & App Development</h4>
-  <p>
-    <img src="https://shields.io" alt="React" />
-    <img src="https://shields.io" alt="Node.js" />
-    <img src="https://shields.io" alt="Tailwind CSS" />
-    <img src="https://shields.io" alt="Firebase" />
-    <img src="https://shields.io" alt="Android" />
-  </p>
+<h4 align="center">Web & App Development</h4>
+<p align="center">
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="Tailwind CSS" />
+  <img src="https://shields.io" alt="Firebase" />
+  <img src="https://shields.io" alt="Android" />
+</p>
 
-  <h4>Hardware, Cloud & Dev Tools</h4>
-  <p>
-    <img src="https://shields.io" alt="Arduino" />
-    <img src="https://shields.io" alt="Git" />
-    <img src="https://shields.io" alt="GitHub" />
-    <img src="https://shields.io" alt="Android Studio" />
-    <img src="https://shields.io" alt="VS Code" />
-    <img src="https://shields.io" alt="Cloudflare" />
-  </p>
-</div>
+<h4 align="center">Hardware, Cloud & Dev Tools</h4>
+<p align="center">
+  <img src="https://shields.io" alt="Arduino" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="Android Studio" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Cloudflare" />
+</p>
 
 <h3 align="center">GitHub Analytics</h3>
 
