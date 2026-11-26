@@ -10,18 +10,38 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
 - 🧮 Mathematics & problem-solving
 - 🎨 Graphic design & digital media
 
-<h3 align="center">Tech Stack</h3>
+<div align="center">
+  <h2>My Tech Stack & Tools</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-</p>
+  <h4>Langs</h4>
+  <p>
+    <img src="https://shields.io" alt="Java" />
+    <img src="https://shields.io" alt="Python" />
+    <img src="https://shields.io" alt="C++" />
+    <img src="https://shields.io" alt="JavaScript" />
+    <img src="https://shields.io" alt="HTML5" />
+    <img src="https://shields.io" alt="CSS3" />
+  </p>
+
+  <h4>Web & App Development</h4>
+  <p>
+    <img src="https://shields.io" alt="React" />
+    <img src="https://shields.io" alt="Node.js" />
+    <img src="https://shields.io" alt="Tailwind CSS" />
+    <img src="https://shields.io" alt="Firebase" />
+    <img src="https://shields.io" alt="Android" />
+  </p>
+
+  <h4>Hardware, Cloud & Dev Tools</h4>
+  <p>
+    <img src="https://shields.io" alt="Arduino" />
+    <img src="https://shields.io" alt="Git" />
+    <img src="https://shields.io" alt="GitHub" />
+    <img src="https://shields.io" alt="Android Studio" />
+    <img src="https://shields.io" alt="VS Code" />
+    <img src="https://shields.io" alt="Cloudflare" />
+  </p>
+</div>
 
 <h3 align="center">GitHub Analytics</h3>
 
