@@ -1,28 +1,25 @@
 <svg xmlns="http://w3.org" viewBox="0 0 650 60" width="650" height="60">
-  <defs>
-    <filter id="yellow-glow" x="-30%" y="-50%" width="160%" height="200%">
-      <feGaussianBlur stdDeviation="3.5" result="blur" />
-      <feComponentTransfer in="blur" result="glow1">
-        <feFuncA type="linear" slope="0.8"/>
-      </feComponentTransfer>
-      <feMerge>
-        <feMergeNode in="glow1" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
+  <!-- Outer soft glow layer -->
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="18" font-style="italic" font-weight="500"
+        fill="none" stroke="#FFD700" stroke-width="6" stroke-opacity="0.2" stroke-linejoin="round">
+    "If you want to shine like a sun, first burn like a sun"
+  </text>
 
-  <text 
-    x="50%" 
-    y="50%" 
-    dominant-baseline="central" 
-    text-anchor="middle" 
-    fill="#FFD700" 
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" 
-    font-size="18" 
-    font-style="italic" 
-    font-weight="500" 
-    filter="url(#yellow-glow)">
+  <!-- Inner tighter glow layer -->
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="18" font-style="italic" font-weight="500"
+        fill="none" stroke="#FFD700" stroke-width="2.5" stroke-opacity="0.45" stroke-linejoin="round">
+    "If you want to shine like a sun, first burn like a sun"
+  </text>
+
+  <!-- Main sharp text -->
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="18" font-style="italic" font-weight="500"
+        fill="#FFD700">
     "If you want to shine like a sun, first burn like a sun"
   </text>
 </svg>
