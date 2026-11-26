@@ -43,6 +43,22 @@ I enjoy programming, robotics, mathematics, and creative design. I like experime
   </a>
   <br/>
   <sub><sup>find me on discord</sup></sub>
+
+  <svg xmlns="http://w3.org" viewBox="0 0 650 60" width="650" height="60">
+  <text 
+    x="50%" 
+    y="50%" 
+    dominant-baseline="central" 
+    text-anchor="middle" 
+    fill="#FFD700" 
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" 
+    font-size="18" 
+    font-style="italic" 
+    font-weight="500">
+    "If you want to shine like a sun, first burn like a sun"
+  </text>
+</svg>
+
 </p>
 
 ---
